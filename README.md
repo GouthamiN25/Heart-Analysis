@@ -6,7 +6,7 @@ Data Preprocessing:
 
 Cleaning and preparing the dataset for analysis.
 
-Exploratory Data Analysis (EDA): 
+Exploratory Data Analysis(EDA): 
 
 Visualizing and understanding the data distributions.
 
