@@ -1,4 +1,4 @@
-Heart Disease Prediction using Machine Learning:
+***Heart Disease Prediction using Machine Learning***
 
 This project aims to analyze a healthcare dataset to predict the presence of heart disease. The notebook demonstrates a comprehensive machine learning workflow, including:
 
